@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @David-Akinlawon
-- 👀 I’m interested in Computing
-- 🌱 I’m currently learning HTML-CSS-JS
-
-
-  
-- ⚡ Fun fact: It's not fun but I'm 16
+Hi, I'm Akinlawon David 👋  
+300-level Computer Science student
+Passionate about SQL, Power BI, and data-driven solutions  
+Always learning and building new projects  
+Contact: davidakinlawon6@gmail.com
 
 <!---
 David-Akinlawon/David-Akinlawon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
